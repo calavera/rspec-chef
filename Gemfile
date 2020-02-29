@@ -3,6 +3,6 @@ source :rubygems
 gemspec
 
 group :development, :test do
-  gem 'rake', '~> 0.9.2'
+  gem 'rake', '~> 12.3.3'
 end
 
